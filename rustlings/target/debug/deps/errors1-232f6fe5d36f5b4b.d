@@ -1,5 +1,5 @@
-/home/wendigo/Rust/rustlings/target/debug/deps/liberrors1-232f6fe5d36f5b4b.rmeta: exercises/13_error_handling/errors1.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/liberrors1-232f6fe5d36f5b4b.rmeta: exercises/13_error_handling/errors1.rs
 
-/home/wendigo/Rust/rustlings/target/debug/deps/errors1-232f6fe5d36f5b4b.d: exercises/13_error_handling/errors1.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/errors1-232f6fe5d36f5b4b.d: exercises/13_error_handling/errors1.rs
 
 exercises/13_error_handling/errors1.rs:

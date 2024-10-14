@@ -1,5 +1,5 @@
-/home/wendigo/Rust/rustlings/target/debug/deps/liboptions2-f739939992c151bf.rmeta: exercises/12_options/options2.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/liboptions2-f739939992c151bf.rmeta: exercises/12_options/options2.rs
 
-/home/wendigo/Rust/rustlings/target/debug/deps/options2-f739939992c151bf.d: exercises/12_options/options2.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/options2-f739939992c151bf.d: exercises/12_options/options2.rs
 
 exercises/12_options/options2.rs:

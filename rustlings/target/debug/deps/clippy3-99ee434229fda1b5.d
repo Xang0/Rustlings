@@ -1,5 +1,5 @@
-/home/wendigo/Rust/rustlings/target/debug/deps/libclippy3-99ee434229fda1b5.rmeta: exercises/22_clippy/clippy3.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/libclippy3-99ee434229fda1b5.rmeta: exercises/22_clippy/clippy3.rs
 
-/home/wendigo/Rust/rustlings/target/debug/deps/clippy3-99ee434229fda1b5.d: exercises/22_clippy/clippy3.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/clippy3-99ee434229fda1b5.d: exercises/22_clippy/clippy3.rs
 
 exercises/22_clippy/clippy3.rs:

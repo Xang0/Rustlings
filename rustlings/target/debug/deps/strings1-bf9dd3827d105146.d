@@ -1,5 +1,5 @@
-/home/wendigo/Rust/rustlings/target/debug/deps/libstrings1-bf9dd3827d105146.rmeta: exercises/09_strings/strings1.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/libstrings1-bf9dd3827d105146.rmeta: exercises/09_strings/strings1.rs
 
-/home/wendigo/Rust/rustlings/target/debug/deps/strings1-bf9dd3827d105146.d: exercises/09_strings/strings1.rs
+/home/wendigo/Rust/Rustlings/rustlings/target/debug/deps/strings1-bf9dd3827d105146.d: exercises/09_strings/strings1.rs
 
 exercises/09_strings/strings1.rs:
